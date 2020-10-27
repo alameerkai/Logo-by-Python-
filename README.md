@@ -1,5 +1,5 @@
 # Logo-by-Python-
-Add the logo to all the your photos by one click ! 
+Add the logo to all your photos by one click ! 
 
 
 - Add your logo name file (( for example || Logo.png || )) 
